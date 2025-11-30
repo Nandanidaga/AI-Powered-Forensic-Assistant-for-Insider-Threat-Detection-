@@ -96,5 +96,6 @@ AI-Powered-Forensic-Assistant/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Nandani Daga**
+
