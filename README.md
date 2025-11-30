@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/SysSecura%20AI-AI%20Forensic%20Assistant-blueviolet?style=for-the-badge&logo=ai" />
 </p>
 
-<h1 align="center">🔐 SysSecura AI – Insider Threat Detection</h1>
+<h1 align="center">🔐 Sys-Secura AI – Insider Threat Detection</h1>
 <p align="center">AI-powered forensic assistant for internal threat detection and behavioral analysis.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Enabled-brightgreen?style=flat-square" />
@@ -13,7 +13,7 @@
 </p>
 
 
-# SysSecura AI 🔐
+# Sys-Secura AI 🔐
 AI-powered forensic assistant for detecting insider threats.
 
 This project analyzes employee behavior, email communication, and activity patterns using Machine Learning & NLP to identify suspicious activities inside an organization.
@@ -94,8 +94,9 @@ AI-Powered-Forensic-Assistant/
 │── utils/
 │── README.md
 
----
+--
 
-##  Author
+##Author
 **Nandani Daga**
+
 
