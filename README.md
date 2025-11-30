@@ -93,10 +93,10 @@ AI-Powered-Forensic-Assistant/
 │── frontend/
 │── utils/
 │── README.md
+---
 
---
-
-##Author
+## 👩‍💻 Author
 **Nandani Daga**
+
 
 
