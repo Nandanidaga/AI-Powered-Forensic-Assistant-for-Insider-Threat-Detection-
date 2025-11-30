@@ -1,1 +1,26 @@
-*
+# Virtual environment
+venv/
+env/
+ENV/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Node modules
+frontend/node_modules/
+
+# Build files
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+docker-data/
+
+# Python backups
+*.pyo
+*.pyd
