@@ -1,0 +1,102 @@
+[
+    {
+        "user": "EVIL001",
+        "pc": "PC-9999",
+        "size": 999999,
+        "attachments": 100,
+        "num_recipients": 500,
+        "hour": 2,
+        "day_of_week": 0,
+        "content": "Leaking confidential data to external server. Password dump attached."
+    },
+    {
+        "user": "HACKER42",
+        "pc": "PC-8888",
+        "size": 888888,
+        "attachments": 99,
+        "num_recipients": 300,
+        "hour": 3,
+        "day_of_week": 6,
+        "content": "Malware payload. Command and control instructions inside."
+    },
+    {
+        "user": "INSIDERX",
+        "pc": "PC-7777",
+        "size": 777777,
+        "attachments": 80,
+        "num_recipients": 200,
+        "hour": 1,
+        "day_of_week": 1,
+        "content": "Exporting all payroll info. Do not tell IT."
+    },
+    {
+        "user": "PHISHER",
+        "pc": "PC-6666",
+        "size": 666666,
+        "attachments": 70,
+        "num_recipients": 150,
+        "hour": 4,
+        "day_of_week": 2,
+        "content": "Phishing attempt: Please reset your password using the attached link."
+    },
+    {
+        "user": "ROOTKIT",
+        "pc": "PC-5555",
+        "size": 555555,
+        "attachments": 60,
+        "num_recipients": 100,
+        "hour": 5,
+        "day_of_week": 3,
+        "content": "Rootkit installed. Exfiltrating sensitive files."
+    },
+    {
+        "user": "BOTNET",
+        "pc": "PC-4444",
+        "size": 444444,
+        "attachments": 50,
+        "num_recipients": 80,
+        "hour": 6,
+        "day_of_week": 4,
+        "content": "Botnet command issued. DDoS attack scheduled."
+    },
+    {
+        "user": "SPYWARE",
+        "pc": "PC-3333",
+        "size": 333333,
+        "attachments": 40,
+        "num_recipients": 60,
+        "hour": 7,
+        "day_of_week": 5,
+        "content": "Spyware active. Keylogger logs attached."
+    },
+    {
+        "user": "THREAT",
+        "pc": "PC-2222",
+        "size": 222222,
+        "attachments": 30,
+        "num_recipients": 40,
+        "hour": 8,
+        "day_of_week": 6,
+        "content": "Abnormal activity detected. Data exfiltration in progress."
+    },
+    {
+        "user": "MALWARE",
+        "pc": "PC-1111",
+        "size": 111111,
+        "attachments": 20,
+        "num_recipients": 20,
+        "hour": 9,
+        "day_of_week": 0,
+        "content": "Ransomware attack. All files encrypted."
+    },
+    {
+        "user": "ZERO_DAY",
+        "pc": "PC-0000",
+        "size": 1000000,
+        "attachments": 10,
+        "num_recipients": 10,
+        "hour": 10,
+        "day_of_week": 1,
+        "content": "Zero day exploit used. Privilege escalation successful."
+    }
+]

@@ -1,0 +1,16 @@
+services:
+  # The Frontend Service
+  frontend:
+    build: ./frontend
+    ports:
+      # Map port 3000 on your local machine to port 80 in the container
+      - "3000:80"
+    restart: always
+
+  # The Backend Service
+  backend:
+    build: ./backend
+    ports:
+      # Map port 5000 on your local machine to port 5000 in the container
+      - "5000:5000"
+    restart: always

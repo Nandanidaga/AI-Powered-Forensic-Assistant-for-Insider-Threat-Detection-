@@ -1,0 +1,102 @@
+[
+    {
+        "user": "JMW0253",
+        "pc": "PC-1823",
+        "size": 1200,
+        "attachments": 0,
+        "num_recipients": 2,
+        "hour": 10,
+        "day_of_week": 1,
+        "content": "Monthly report attached."
+    },
+    {
+        "user": "CDE1992",
+        "pc": "PC-5612",
+        "size": 250,
+        "attachments": 0,
+        "num_recipients": 1,
+        "hour": 14,
+        "day_of_week": 2,
+        "content": "Lunch meeting at 1pm."
+    },
+    {
+        "user": "LAP0221",
+        "pc": "PC-0045",
+        "size": 98500,
+        "attachments": 15,
+        "num_recipients": 3,
+        "hour": 23,
+        "day_of_week": 5,
+        "content": "Confidential: Please see attached files."
+    },
+    {
+        "user": "RCM0083",
+        "pc": "PC-9834",
+        "size": 5600,
+        "attachments": 1,
+        "num_recipients": 1,
+        "hour": 11,
+        "day_of_week": 3,
+        "content": "Invoice for last month."
+    },
+    {
+        "user": "SAB0898",
+        "pc": "PC-4455",
+        "size": 150000,
+        "attachments": 2,
+        "num_recipients": 120,
+        "hour": 3,
+        "day_of_week": 0,
+        "content": "URGENT: Please click the link to update your password immediately"
+    },
+    {
+        "user": "JKH0554",
+        "pc": "PC-8371",
+        "size": 430,
+        "attachments": 0,
+        "num_recipients": 4,
+        "hour": 16,
+        "day_of_week": 4,
+        "content": "Team meeting notes."
+    },
+    {
+        "user": "HTP0342",
+        "pc": "PC-6192",
+        "size": 204800,
+        "attachments": 25,
+        "num_recipients": 1,
+        "hour": 19,
+        "day_of_week": 1,
+        "content": "This is a test. Your account will be suspended unless you respond."
+    },
+    {
+        "user": "INS001",
+        "pc": "PC-9001",
+        "size": 350000,
+        "attachments": 10,
+        "num_recipients": 1,
+        "hour": 2,
+        "day_of_week": 6,
+        "content": "Exported confidential client data. For your eyes only."
+    },
+    {
+        "user": "INS002",
+        "pc": "PC-9002",
+        "size": 500000,
+        "attachments": 20,
+        "num_recipients": 1,
+        "hour": 3,
+        "day_of_week": 0,
+        "content": "Sensitive payroll files attached. Do not share."
+    },
+    {
+        "user": "INS003",
+        "pc": "PC-9003",
+        "size": 100,
+        "attachments": 0,
+        "num_recipients": 50,
+        "hour": 1,
+        "day_of_week": 1,
+        "content": "Forwarding internal documents to external contacts."
+    }
+]
